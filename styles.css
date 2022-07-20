@@ -734,7 +734,7 @@ footer .copyright {
 
 /* Projects */
 #page-header.project-header {
-   background-image: url(/AI\ Project\ 10.jpg)
+   background-image: url("AI\ Project\ 10.jpg")
 }
 
 #project {
@@ -852,7 +852,7 @@ footer .copyright {
 
 /* CONTACT US */
 #page-header.contact-header {
-  background-image: url(/contact-banner.png);
+  background-image: url("contact-banner.png");
   height: 35vh;
 }
 
